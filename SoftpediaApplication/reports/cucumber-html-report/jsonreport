@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 342800144,
+              "duration": 587863605,
               "status": "passed"
             },
             "line": 7,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 60132202679,
+              "duration": 190110793820,
               "status": "passed"
             },
             "line": 8,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 201356,
+              "duration": 211129,
               "status": "passed"
             },
             "line": 9,
@@ -64,7 +64,7 @@
         "steps": [
           {
             "result": {
-              "duration": 25349177546,
+              "duration": 29489072367,
               "status": "passed"
             },
             "line": 14,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 643016991,
+              "duration": 229525013,
               "status": "passed"
             },
             "line": 15,
@@ -88,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 7506632762,
+              "duration": 5062429654,
               "status": "passed"
             },
             "line": 16,
@@ -114,7 +114,7 @@
           },
           {
             "result": {
-              "duration": 6358468740,
+              "duration": 3247955299,
               "status": "passed"
             },
             "line": 17,
@@ -135,7 +135,7 @@
           },
           {
             "result": {
-              "duration": 21389155436,
+              "duration": 17338530103,
               "status": "passed"
             },
             "line": 18,
@@ -167,7 +167,7 @@
         "steps": [
           {
             "result": {
-              "duration": 30792092490,
+              "duration": 23352957247,
               "status": "passed"
             },
             "line": 14,
@@ -179,7 +179,7 @@
           },
           {
             "result": {
-              "duration": 374388052,
+              "duration": 699816679,
               "status": "passed"
             },
             "line": 15,
@@ -191,7 +191,7 @@
           },
           {
             "result": {
-              "duration": 10649230181,
+              "duration": 9232951949,
               "status": "passed"
             },
             "line": 16,
@@ -217,7 +217,7 @@
           },
           {
             "result": {
-              "duration": 3865509100,
+              "duration": 3249389705,
               "status": "passed"
             },
             "line": 17,
@@ -238,7 +238,7 @@
           },
           {
             "result": {
-              "duration": 38759395170,
+              "duration": 25632801325,
               "status": "passed"
             },
             "line": 18,
@@ -270,7 +270,7 @@
         "steps": [
           {
             "result": {
-              "duration": 13323695306,
+              "duration": 14275565784,
               "status": "passed"
             },
             "line": 28,
@@ -282,7 +282,7 @@
           },
           {
             "result": {
-              "duration": 15022742435,
+              "duration": 15078607898,
               "status": "passed"
             },
             "line": 29,
@@ -294,7 +294,7 @@
           },
           {
             "result": {
-              "duration": 781405003,
+              "duration": 711791404,
               "status": "passed"
             },
             "line": 30,
@@ -306,7 +306,7 @@
           },
           {
             "result": {
-              "duration": 3167841649,
+              "duration": 3179775313,
               "status": "passed"
             },
             "line": 31,
@@ -334,7 +334,7 @@
         "steps": [
           {
             "result": {
-              "duration": 21533494189,
+              "duration": 30584080389,
               "status": "passed"
             },
             "line": 35,
@@ -346,7 +346,7 @@
           },
           {
             "result": {
-              "duration": 14674153317,
+              "duration": 14455081097,
               "status": "passed"
             },
             "line": 36,
@@ -358,7 +358,7 @@
           },
           {
             "result": {
-              "duration": 2008746752,
+              "duration": 2003548628,
               "status": "passed"
             },
             "line": 37,
@@ -370,7 +370,7 @@
           },
           {
             "result": {
-              "duration": 8914692657,
+              "duration": 8882322986,
               "status": "passed"
             },
             "line": 38,
@@ -382,7 +382,7 @@
           },
           {
             "result": {
-              "duration": 3282477027,
+              "duration": 3278335874,
               "status": "passed"
             },
             "line": 39,
@@ -410,7 +410,7 @@
         "steps": [
           {
             "result": {
-              "duration": 20223342005,
+              "duration": 25594965259,
               "status": "passed"
             },
             "line": 43,
@@ -422,7 +422,7 @@
           },
           {
             "result": {
-              "duration": 11826962692,
+              "duration": 21044719748,
               "status": "passed"
             },
             "line": 44,
@@ -434,7 +434,7 @@
           },
           {
             "result": {
-              "duration": 451154887,
+              "duration": 487408749,
               "status": "passed"
             },
             "line": 45,
@@ -446,7 +446,7 @@
           },
           {
             "result": {
-              "duration": 19170909390,
+              "duration": 18622936911,
               "status": "passed"
             },
             "line": 46,
@@ -469,7 +469,7 @@
     "description": "",
     "id": "softpedia-application",
     "keyword": "Feature",
-    "uri": "D:/selenium projects/Softpedia_Application-master/src/main/resources/feature/Testscenario.feature",
+    "uri": "C:/Users/SANTHOSH KUMAR/git/Softpedia_Application/SoftpediaApplication/src/main/resources/feature/Testscenario.feature",
     "tags": [
       {
         "line": 1,

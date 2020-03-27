@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("D:/selenium projects/Softpedia_Application-master/src/main/resources/feature/Testscenario.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/SANTHOSH KUMAR/git/Softpedia_Application/SoftpediaApplication/src/main/resources/feature/Testscenario.feature");
 formatter.feature({
   "line": 2,
   "name": "SoftPedia Application",
@@ -45,21 +45,21 @@ formatter.match({
   "location": "RegisterStep.user_is_on_Home_Page()"
 });
 formatter.result({
-  "duration": 342800144,
+  "duration": 587863605,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterStep.user_enters_UserName_Emailid_Password_and_Repassword_from_excel_data()"
 });
 formatter.result({
-  "duration": 60132202679,
+  "duration": 190110793820,
   "status": "passed"
 });
 formatter.match({
   "location": "RegisterStep.message_display_Registration_UnSuccessfull()"
 });
 formatter.result({
-  "duration": 201356,
+  "duration": 211129,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -191,14 +191,14 @@ formatter.match({
   "location": "LoginStep.user_is_on_website_Home_Page()"
 });
 formatter.result({
-  "duration": 25349177546,
+  "duration": 29489072367,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.user_nagivate_to_Login_Page()"
 });
 formatter.result({
-  "duration": 643016991,
+  "duration": 229525013,
   "status": "passed"
 });
 formatter.match({
@@ -215,7 +215,7 @@ formatter.match({
   "location": "LoginStep.User_login_using_and_with_vaild_deatils(String,String)"
 });
 formatter.result({
-  "duration": 7506632762,
+  "duration": 5062429654,
   "status": "passed"
 });
 formatter.match({
@@ -228,14 +228,14 @@ formatter.match({
   "location": "LoginStep.click_on_login_button(String)"
 });
 formatter.result({
-  "duration": 6358468740,
+  "duration": 3247955299,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.user_logout_from_webpage()"
 });
 formatter.result({
-  "duration": 21389155436,
+  "duration": 17338530103,
   "status": "passed"
 });
 formatter.scenario({
@@ -292,14 +292,14 @@ formatter.match({
   "location": "LoginStep.user_is_on_website_Home_Page()"
 });
 formatter.result({
-  "duration": 30792092490,
+  "duration": 23352957247,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.user_nagivate_to_Login_Page()"
 });
 formatter.result({
-  "duration": 374388052,
+  "duration": 699816679,
   "status": "passed"
 });
 formatter.match({
@@ -316,7 +316,7 @@ formatter.match({
   "location": "LoginStep.User_login_using_and_with_vaild_deatils(String,String)"
 });
 formatter.result({
-  "duration": 10649230181,
+  "duration": 9232951949,
   "status": "passed"
 });
 formatter.match({
@@ -329,14 +329,14 @@ formatter.match({
   "location": "LoginStep.click_on_login_button(String)"
 });
 formatter.result({
-  "duration": 3865509100,
+  "duration": 3249389705,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.user_logout_from_webpage()"
 });
 formatter.result({
-  "duration": 38759395170,
+  "duration": 25632801325,
   "status": "passed"
 });
 formatter.scenario({
@@ -377,28 +377,28 @@ formatter.match({
   "location": "PhoneSearchStep.user_is_on_phone_finder_page()"
 });
 formatter.result({
-  "duration": 13323695306,
+  "duration": 14275565784,
   "status": "passed"
 });
 formatter.match({
   "location": "PhoneSearchStep.user_select_brand_platform_battery_and_availability()"
 });
 formatter.result({
-  "duration": 15022742435,
+  "duration": 15078607898,
   "status": "passed"
 });
 formatter.match({
   "location": "PhoneSearchStep.user_click_go_button()"
 });
 formatter.result({
-  "duration": 781405003,
+  "duration": 711791404,
   "status": "passed"
 });
 formatter.match({
   "location": "PhoneSearchStep.phone_found_message_is_displayed()"
 });
 formatter.result({
-  "duration": 3167841649,
+  "duration": 3179775313,
   "status": "passed"
 });
 formatter.scenario({
@@ -444,35 +444,35 @@ formatter.match({
   "location": "PrizeClaimStep.user_is_on_softpedia_Home_Page()"
 });
 formatter.result({
-  "duration": 21533494189,
+  "duration": 30584080389,
   "status": "passed"
 });
 formatter.match({
   "location": "PrizeClaimStep.user_clicks_i_icon_and_Discount_giveaways()"
 });
 formatter.result({
-  "duration": 14674153317,
+  "duration": 14455081097,
   "status": "passed"
 });
 formatter.match({
   "location": "PrizeClaimStep.user_navigates_to_prize_claim_page()"
 });
 formatter.result({
-  "duration": 2008746752,
+  "duration": 2003548628,
   "status": "passed"
 });
 formatter.match({
   "location": "PrizeClaimStep.user_clicks_submit_button_without_entering_the_details()"
 });
 formatter.result({
-  "duration": 8914692657,
+  "duration": 8882322986,
   "status": "passed"
 });
 formatter.match({
   "location": "PrizeClaimStep.successfull_alert_handle_message_is_displayed()"
 });
 formatter.result({
-  "duration": 3282477027,
+  "duration": 3278335874,
   "status": "passed"
 });
 formatter.scenario({
@@ -513,28 +513,28 @@ formatter.match({
   "location": "GamesStep.user_is_on_softpedia_webpage()"
 });
 formatter.result({
-  "duration": 20223342005,
+  "duration": 25594965259,
   "status": "passed"
 });
 formatter.match({
   "location": "GamesStep.user_click_games_tab()"
 });
 formatter.result({
-  "duration": 11826962692,
+  "duration": 21044719748,
   "status": "passed"
 });
 formatter.match({
   "location": "GamesStep.user_click_side_bar()"
 });
 formatter.result({
-  "duration": 451154887,
+  "duration": 487408749,
   "status": "passed"
 });
 formatter.match({
   "location": "GamesStep.selected_Game_name_is_displayed()"
 });
 formatter.result({
-  "duration": 19170909390,
+  "duration": 18622936911,
   "status": "passed"
 });
 });

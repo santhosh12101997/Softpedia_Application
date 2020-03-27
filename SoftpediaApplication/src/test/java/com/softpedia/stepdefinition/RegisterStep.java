@@ -24,7 +24,7 @@ public class RegisterStep
 	@And("^User enters UserName,Emailid,Password and Repassword from excel data$")
 	public void user_enters_UserName_Emailid_Password_and_Repassword_from_excel_data() throws Throwable 
 	{
-		for(int i=1;i<=15;i++)
+		for(int i=1;i<=1;i++)
 		{
 		register.browserLaunch("chrome","https://www.softpedia.com/");
 		register.userIcon();

@@ -19,7 +19,6 @@ public class Excel_data
 	{	
 		//Create an object of File class to open xlsx file and an object of FileInputStream class to read excel file
 		FileInputStream file = new FileInputStream(new File("src\\test\\resources\\TestData\\exceldata.xlsx"));
-		//create object of XSSFWorkbook class
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		XSSFSheet sheet=workbook.getSheet("Sheet1");
 		XSSFRow row =sheet.getRow(i);
@@ -34,7 +33,6 @@ public class Excel_data
 	{	
 		//Create an object of File class to open xlsx file and an object of FileInputStream class to read excel file
 		FileInputStream file = new FileInputStream(new File("src\\test\\resources\\TestData\\exceldata.xlsx"));
-		//create object of XSSFWorkbook class
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		XSSFSheet sheet=workbook.getSheet("Sheet1");
 		XSSFRow row =sheet.getRow(i);
@@ -49,7 +47,6 @@ public class Excel_data
 	{ 	
 		//Create an object of File class to open xlsx file and an object of FileInputStream class to read excel file
 		FileInputStream file = new FileInputStream(new File("src\\test\\resources\\TestData\\exceldata.xlsx"));
-		//create object of XSSFWorkbook class
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		XSSFSheet sheet=workbook.getSheet("Sheet1");
 		XSSFRow row =sheet.getRow(i);
@@ -65,7 +62,6 @@ public class Excel_data
 	{ 
 		//Create an object of File class to open xlsx file and an object of FileInputStream class to read excel file
 		FileInputStream file = new FileInputStream(new File("src\\test\\resources\\TestData\\exceldata.xlsx"));
-		//create object of XSSFWorkbook class
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		XSSFSheet sheet=workbook.getSheet("Sheet1");
 		XSSFRow row =sheet.getRow(i);
